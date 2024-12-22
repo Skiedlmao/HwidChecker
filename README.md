@@ -8,3 +8,4 @@ A **borderless** PowerShell script that collects your **IGN** and HWID (CPU, Mem
 2. Enter IGN.  
 3. Click “Collect HWID Info.”  
 4. Click “Close” or “✕” to exit.
+![image](https://github.com/user-attachments/assets/8a066a6c-b211-46e2-b71e-e82f1cd74e7d)
