@@ -1,5 +1,5 @@
 
-# HWID Collector
+# HWID Collector (Inspired By Rio) 
 
 A **borderless** PowerShell script that collects your **IGN** and HWID (CPU, Memory, Disk) with a **dark**, draggable UI.
 
